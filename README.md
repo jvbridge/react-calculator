@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# This is a project I made to move a calculator app using pure JS, CSS and HTML5 into react for
+
+I'm leaving the boilerplate information here for the readme as well
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
